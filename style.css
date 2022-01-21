@@ -1,0 +1,16 @@
+header{
+    background-image:linear-gradient(#FFFBF0,#FFFBF0);
+    height: 100vh;
+    min-height: 500px;
+}
+.product-background{
+    background-color:#E5E5E5;
+    border-radius: 10px;
+}
+.my-button{
+    color: white;
+    background-image: linear-gradient(#A4BC46 100%,#85A019 100%);
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+}
